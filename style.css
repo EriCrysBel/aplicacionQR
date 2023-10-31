@@ -54,6 +54,7 @@ main{
   "boton1"
   "boton2"
   "boton3"
+  "boton4"
 }
 .fotoUsuario{
   grid-area: foto;
@@ -68,7 +69,6 @@ main{
   font-size: x-large;
   cursor: pointer;
   margin-top:10px;
-  
 }
 .uno{
   grid-area:boton1;
@@ -82,8 +82,13 @@ main{
 .tres{
   grid-area:boton3;
   justify-self: center;
+  
 }
-
+.cuatro{
+  grid-area:boton4;
+  justify-self: center;
+  
+}
 
 
 .contenedorDerecha{
