@@ -87,7 +87,9 @@ main{
 .cuatro{
   grid-area:boton4;
   justify-self: center;
+  
 }
+
 
 .contenedorDerecha{
   grid-area: sidebar;
